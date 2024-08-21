@@ -24,15 +24,8 @@ role: Graduate Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Akuna Capital
-    url: https://akunacapital.com/
-  - name: TikTok
-    url: https://www.tiktok.com/
-  - name: Meta
-    url: https://www.meta.com/
-  - name: Tatari
-    url: https://www.tatari.tv/
-
+  - name: UCLA
+    url: https://samueli.ucla.edu/about/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
