@@ -223,5 +223,3 @@ languages:
 ## About Me
 
 James Zhao is a master's student at UCLA studying computer science. His interests include machine learning, distributed systems, artificial intelligence, and robotics. Previously, he worked or interned at Akuna Capital, TikTok, Meta, and Tatari.
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
