@@ -189,7 +189,7 @@ awards:
   - title: Yale STEM Likely Letter Recipient
   - date: '2019-01-20'
   - summary: |
-      Was chosen as ~150 Likely Letter recipients out of 30k+ Yale applicants for STEM-related achievements.
+      Was chosen as one of ~150 Likely Letter recipients out of 30k+ Yale applicants for STEM-related achievements.
   # - title: Neural Networks and Deep Learning
   #   url: https://www.coursera.org/learn/neural-networks-deep-learning
   #   date: '2023-11-25'
