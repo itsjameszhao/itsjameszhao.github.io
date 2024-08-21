@@ -74,9 +74,9 @@ education:
       - Large-Scale Machine Learning
       - Automated Reasoning
       - Big Data Analytics
-    # button:
-    #   text: 'Read Thesis'
-    #   url: 'https://example.com'
+    button:
+      text: '' # 'Read Thesis'
+      url: '' # 'https://example.com'
   - area: BS Computer Science and Economics
     institution: Yale University
     date_start: 2019-08-23
