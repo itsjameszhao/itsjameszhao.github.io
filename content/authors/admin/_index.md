@@ -114,7 +114,7 @@ work:
       - Researched and developed AI agents for functional validation of TikTok UI using computer vision, LLMs, and chain-of-thought prompting, enabling autonomous navigation through TikTok app.
       - Utilized HDFS and large distributed GPU clusters (A100 GPUs) on an internal platform to train AI models on TikTok’s internal data, leveraging PyTorch distributed for efficient model training.
       - Engineered and pipelined models, including CLIP for image localization and Grounding DINO to create an AI UI verification agent capable of validating and interacting with the app autonomously.
-  - position: Software Engineer Intern
+  - position: Software Engineer
     company_name: Meta
     company_url: 'https://meta.com'
     company_logo: ''
@@ -215,4 +215,4 @@ awards:
 
 ## About Me
 
-James Zhao is a master's student at UCLA studying computer science. His interests include machine learning, distributed systems, artificial intelligence, and robotics. Previously, he worked or interned at Akuna Capital, TikTok, Meta, and Tatari.
+James Zhao is a master's student at UCLA studying computer science. His interests include machine learning, distributed systems, artificial intelligence, and robotics. Previously, he worked at Akuna Capital, TikTok, Meta, and Tatari.
