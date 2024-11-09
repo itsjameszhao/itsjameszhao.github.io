@@ -91,70 +91,70 @@ education:
       - Capital Markets
       - Market Arbitrage
 
-work:
-  - position: Junior Quantitative Developer
-    company_name: Akuna Capital
-    company_url: 'https://akunacapital.com/about'
-    company_logo: ''
-    date_start: 2024-05-20
-    date_end: '2024-07-26'
-    summary: |2-
-      Responsibilities include:
-      - Researched signals for price and latency prediction, optimizing market microstructure performance.
-      - Detected and resolved a trading system bug, preventing thousand+ dollars of trading losses per day.
-      - Enhanced trading infrastructure by correcting engine configs, upgrading observability systems, and developing trade reconciliation dashboards.
-  - position: Software Engineer
-    company_name: TikTok
-    company_url: 'https://tiktok.com'
-    company_logo: ''
-    date_start: 2023-10-31
-    date_end: 2024-04-26
-    summary: |
-      Responsibilities include:
-      - Researched and developed AI agents for functional validation of TikTok UI using computer vision, LLMs, and chain-of-thought prompting, enabling autonomous navigation through TikTok app.
-      - Utilized HDFS and large distributed GPU clusters (A100 GPUs) on an internal platform to train AI models on TikTok’s internal data, leveraging PyTorch distributed for efficient model training.
-      - Engineered and pipelined models, including CLIP for image localization and Grounding DINO to create an AI UI verification agent capable of validating and interacting with the app autonomously.
-  - position: Software Engineer
-    company_name: Meta
-    company_url: 'https://meta.com'
-    company_logo: ''
-    date_start: 2022-05-31
-    date_end: 2024-08-12
-    summary: |
-      Responsibilities include:
-      - Improved the latency and reliability of staging tier for demand control, ranking, and ML job scheduling services.
-      - Built, tested, profiled, and deployed backend microservices in a fast-paced, agile software development environment with continuous integration and delivery, leading to O (10s of secs) improvement in performance.
-      - Conducted code reviews and performed unit and integration tests to ensure code quality.
+# work:
+#   - position: Junior Quantitative Developer
+#     company_name: Akuna Capital
+#     company_url: 'https://akunacapital.com/about'
+#     company_logo: ''
+#     date_start: 2024-05-20
+#     date_end: '2024-07-26'
+#     summary: |2-
+#       Responsibilities include:
+#       - Researched signals for price and latency prediction, optimizing market microstructure performance.
+#       - Detected and resolved a trading system bug, preventing thousand+ dollars of trading losses per day.
+#       - Enhanced trading infrastructure by correcting engine configs, upgrading observability systems, and developing trade reconciliation dashboards.
+#   - position: Software Engineer
+#     company_name: TikTok
+#     company_url: 'https://tiktok.com'
+#     company_logo: ''
+#     date_start: 2023-10-31
+#     date_end: 2024-04-26
+#     summary: |
+#       Responsibilities include:
+#       - Researched and developed AI agents for functional validation of TikTok UI using computer vision, LLMs, and chain-of-thought prompting, enabling autonomous navigation through TikTok app.
+#       - Utilized HDFS and large distributed GPU clusters (A100 GPUs) on an internal platform to train AI models on TikTok’s internal data, leveraging PyTorch distributed for efficient model training.
+#       - Engineered and pipelined models, including CLIP for image localization and Grounding DINO to create an AI UI verification agent capable of validating and interacting with the app autonomously.
+#   - position: Software Engineer
+#     company_name: Meta
+#     company_url: 'https://meta.com'
+#     company_logo: ''
+#     date_start: 2022-05-31
+#     date_end: 2024-08-12
+#     summary: |
+#       Responsibilities include:
+#       - Improved the latency and reliability of staging tier for demand control, ranking, and ML job scheduling services.
+#       - Built, tested, profiled, and deployed backend microservices in a fast-paced, agile software development environment with continuous integration and delivery, leading to O (10s of secs) improvement in performance.
+#       - Conducted code reviews and performed unit and integration tests to ensure code quality.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: Python
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: C
-        description: ''
-        percent: 85
-        icon: code-bracket
-      - name: Golang
-        description: ''
-        percent: 70
-        icon: code-bracket
-      - name: Java
-        description: ''
-        percent: 70
-        icon: code-bracket
-      - name: SQL
-        description: ''
-        percent: 85
-        icon: circle-stack
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
+# skills:
+#   - name: Technical Skills
+#     items:
+#       - name: Python
+#         description: ''
+#         percent: 95
+#         icon: code-bracket
+#       - name: C
+#         description: ''
+#         percent: 85
+#         icon: code-bracket
+#       - name: Golang
+#         description: ''
+#         percent: 70
+#         icon: code-bracket
+#       - name: Java
+#         description: ''
+#         percent: 70
+#         icon: code-bracket
+#       - name: SQL
+#         description: ''
+#         percent: 85
+#         icon: circle-stack
+#       - name: Machine Learning
+#         description: ''
+#         percent: 100
+#         icon: chart-bar
 
   # - name: Hobbies
   #   color: '#eeac02'
@@ -173,13 +173,13 @@ skills:
   #       percent: 80
   #       icon: camera
 
-languages:
-  - name: English
-    percent: 100
-  - name: Chinese
-    percent: 80
-  - name: Spanish
-    percent: 75
+# languages:
+#   - name: English
+#     percent: 100
+#   - name: Chinese
+#     percent: 80
+#   - name: Spanish
+#     percent: 75
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -215,4 +215,4 @@ awards:
 
 ## About Me
 
-James Zhao is a master's student at UCLA studying computer science. His interests include machine learning, distributed systems, artificial intelligence, and robotics. Previously, he worked at Akuna Capital, TikTok, Meta, and Tatari.
+James Zhao is a master's student at UCLA studying computer science. His interests include machine learning, distributed systems, artificial intelligence, and robotics.
